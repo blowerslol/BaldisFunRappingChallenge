@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Impressive, but I have 1 more trick up my sleeve?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh yeah, what's that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jacks \":>"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Also, you're expelled from this school even though you're not enrolled. also you're getting charged for breaking and entering."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF, do we even HAVE the money to afford that?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Relax babe, I'll figure this out.."
+		}
+	]
+}

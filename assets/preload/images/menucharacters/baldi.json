@@ -1,0 +1,11 @@
+{
+	"idle_anim": "baldi idle bounce",
+	"image": "baldi",
+	"position": [
+		340,
+		120
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

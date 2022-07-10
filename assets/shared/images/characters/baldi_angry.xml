@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baldi_angry.png">
+<SubTexture name="baldi_angry down0000" x="1579" y="0" width="398" height="798" frameX="-239" frameY="-18" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry down0001" x="1977" y="716" width="398" height="679" frameX="-239" frameY="-144" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry down0002" x="1436" y="830" width="398" height="525" frameX="-239" frameY="-307" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry idle0000" x="1159" y="0" width="420" height="800" frameX="-236" frameY="-12" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry left0000" x="502" y="830" width="683" height="767" frameX="-135" frameY="-91" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry left0001" x="1977" y="0" width="788" height="716" frameX="-72" frameY="-144" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry right0000" x="0" y="0" width="550" height="830" frameX="-117" frameY="-30" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry right0001" x="550" y="0" width="609" height="816" frameX="-82" frameY="-44" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry up0000" x="1185" y="830" width="251" height="766" frameX="-318" frameY="-22" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry idle0001" x="251" y="830" width="251" height="777" frameX="-318" frameY="-11" frameWidth="899" frameHeight="860" />
+<SubTexture name="baldi_angry up0001" x="0" y="830" width="251" height="787" frameX="-318" frameY="0" frameWidth="899" frameHeight="860" />
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "baldi_angry idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "baldi_angry left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "baldi_angry right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "baldi_angry down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "baldi_angry up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldi_angry",
+	"position": [
+		-180,
+		0
+	],
+	"healthicon": "baldi-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		14,
+		209,
+		69
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

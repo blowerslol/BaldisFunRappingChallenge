@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*huff-puff* Phew.. we got away from that guy. well, we need to rest- we've been running for a while now..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I just hope we can find these notebooks."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Were you just running in the halls?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "GAH! Who are you!?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "15 seconds, detention for you. when will you learn?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop bo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... a rap battle?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, but if you lose, you and your little friend over there gets sent to detention, deal?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop bo skddlo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF, please don't mess up these songs. I don't want getting sent to detention..."
+		}
+	]
+}

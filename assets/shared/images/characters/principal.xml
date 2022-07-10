@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="principal.png">
+<SubTexture name="principal idle0000" x="576" y="0" width="247" height="505" frameX="-267" frameY="-55" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal down0000" x="823" y="0" width="274" height="505" frameX="-277" frameY="-55" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal down0001" x="1409" y="476" width="274" height="406" frameX="-277" frameY="-159" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal down0002" x="1097" y="479" width="274" height="320" frameX="-277" frameY="-246" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal left0000" x="594" y="550" width="287" height="493" frameX="-194" frameY="-66" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal left0001" x="1097" y="0" width="312" height="479" frameX="-163" frameY="-81" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal right0000" x="288" y="550" width="306" height="494" frameX="-296" frameY="-64" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal right0001" x="1409" y="0" width="386" height="476" frameX="-264" frameY="-81" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal up0000" x="0" y="550" width="288" height="505" frameX="-267" frameY="-55" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal up0001" x="288" y="0" width="288" height="531" frameX="-267" frameY="-27" frameWidth="776" frameHeight="616" />
+<SubTexture name="principal up0002" x="0" y="0" width="288" height="550" frameX="-267" frameY="-7" frameWidth="776" frameHeight="616" />
+</TextureAtlas>

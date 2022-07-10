@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, kids! it's time for recess!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop bo skddo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You again.. what do you want?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Look, dude. relax. we're not trying to get you mad again. we just want a rematch."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmmm. I don't know..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Plwease? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After you said that cringy line, made me not want to rematch EVEN more. but sure, why not. I'm bored anyway."
+		}
+	]
+}

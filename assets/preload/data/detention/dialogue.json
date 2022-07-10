@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phew.. we don't have to go to detention.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah, SIKE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "H-huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You really though I would let someone slide from breaking a school rule?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhh, yes?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(too lazy to afford the budget, so just pretend that BF and GF got sent to detention, and waited the 15 seconds, and then came back."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That was 15 seconds of hell.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell me about it.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, it's you again.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look, we want to have another battle. atleast, 2 more?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Principal",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine.."
+		}
+	]
+}

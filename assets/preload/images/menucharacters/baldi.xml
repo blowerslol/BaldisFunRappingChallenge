@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baldi.png">
+<SubTexture name="baldi idle bounce0000" x="0" y="0" width="181" height="554" frameX="-280" frameY="-27" frameWidth="776" frameHeight="616" />
+</TextureAtlas>

@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo, It's me the bully. give me your candy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop bo skddo blep blorp"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?you have no candy?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop bo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welp, you can't pass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bop blep skddo blorp bleepy bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? a rap battle to get past?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, but if you lose, you CAN'T pass. alright?\""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, let's go!"
+		}
+	]
+}

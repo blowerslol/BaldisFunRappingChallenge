@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, Hi! Welcome to my schoolhouse."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop boo blep skddo blep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He asked if you're up for a rap battle."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A rap battle?sure! bring it on."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bully.png">
+<SubTexture name="bully idle0000" x="0" y="0" width="354" height="446" frameX="-212" frameY="-87" frameWidth="776" frameHeight="616" />
+</TextureAtlas>

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop bo skddo blep blop bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".   .    .   ."
+		},
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "baldi-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".   .    .    .     .       .     .     ."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen here, you little RAT. you think you're hot shit?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Beep bop bo blepe blorp skddo blep beep bop bo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're not going to like me when I'm angry..."
+		}
+	]
+}

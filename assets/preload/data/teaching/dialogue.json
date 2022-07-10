@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THAT'S IT, I HAD ENOUGH."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU LITTLE RASCALS ALWAYS ASK PEOPLE FOR RAP BATTLES, IT GETS SO ANNOYING AT THIS POINT."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi-angry",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GET OUT WHILE YOU STILL CAN!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Beep bop bo belp skddo?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "B-boyfriend! I think we should get out of here! this guy is insane!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "......"
+		}
+	]
+}

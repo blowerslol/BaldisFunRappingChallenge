@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baldi.png">
+<SubTexture name="baldi talk0000" x="0" y="0" width="465" height="745" frameX="-233" frameY="0" frameWidth="899" frameHeight="860" />
+</TextureAtlas>

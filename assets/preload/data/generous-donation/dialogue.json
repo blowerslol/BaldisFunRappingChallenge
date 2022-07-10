@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "what the fuck did you make me sing"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't blame me, b- wait. did you just, TALK\\n!??!!?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh poop.. -uhh. Beep bop bo skddo blepp?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bully",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, I must be hearing things. but anyway, let's sing again. if you beat me 3 times in a row, then I'll let you pass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep"
+		}
+	]
+}

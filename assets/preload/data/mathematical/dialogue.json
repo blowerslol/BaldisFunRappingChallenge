@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, look kids. after this you're going to have to leave, alright?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo skdo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, Mr. Baldi. but can we get one more song in?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "baldi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine, hit it!"
+		}
+	]
+}
